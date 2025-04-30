@@ -1,2 +1,2 @@
 # KOU Akademik Personel Başvuru Sistemi
-It is a full-stack application where we can manage the academic applications of Kocaeli University.
+Bu proje, üniversitelerdeki akademik personel alım sürecini dijitalleştirmek amacıyla geliştirilmiş tam işlevli bir web tabanlı başvuru sistemidir. Django (DRF) ve React.js teknolojileri kullanılarak geliştirilen sistemde; adaylar kimlik doğrulamasıyla giriş yapabilir, ilanlara başvuru yapabilir, belgelerini yükleyebilir. Yöneticiler ilan açabilir, jüri atayabilir; jüri üyeleri ise değerlendirme raporlarını yükleyebilir. Tüm süreç, JWT tabanlı kimlik doğrulama ve RESTful API mimarisi ile güvenli şekilde yönetilmektedir. Aday puanları sistem tarafından otomatik hesaplanır ve başvuru sonuçları PDF formatında sunulur.
